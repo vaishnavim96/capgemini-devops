@@ -1,5 +1,6 @@
 class Java {
 void welocome(){
 vaishnavi
+vaibhavi
 }
 }

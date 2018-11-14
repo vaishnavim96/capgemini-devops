@@ -3,7 +3,14 @@ void welocome(){
 vaishnavi
 vaibhavi
 }
+
 void() {
 subtraction is done
 }
+
+void add()
+{
+addition is done
+hgfdsjh
+
 }

@@ -3,4 +3,7 @@ void welocome(){
 vaishnavi
 vaibhavi
 }
+void add()
+{
+addition is done
 }

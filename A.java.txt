@@ -1,13 +1,7 @@
 
-
-//added feature 6 from vaish
-
-//modified in remote
-
 //modified in remote
 //added feature 6 from vaish
 
->>>>>>> 81644f52b299a6d66a50abc1b173ce923cf3e215
 class Java {
 void welcome(){
 vaishnavi

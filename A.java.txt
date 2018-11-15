@@ -1,5 +1,5 @@
 class Java {
-void welocome(){
+void welcome(){
 vaishnavi
 vaibhavi
 }
@@ -13,4 +13,5 @@ void add()
 addition is done
 hgfdsjh
 ABCDEF
+qwertyuol
 }

@@ -1,4 +1,7 @@
+
 //modified in remote
+//added feature 6 from vaish
+
 class Java {
 void welcome(){
 vaishnavi

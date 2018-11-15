@@ -1,5 +1,5 @@
 class Java {
-void welocome(){
+void welcome(){
 vaishnavi
 vaibhavi
 }
